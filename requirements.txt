@@ -1,7 +1,7 @@
 langchain
 langchain-core
 langchain-community
-langchain-mistralai
+
 
 mistralai
 python-dotenv
@@ -11,3 +11,15 @@ sentence-transformers
 torch
 
 faiss-cpu
+
+streamlit
+
+langchain-chroma
+
+langchain-text-splitters
+langchain-huggingface
+
+
+
+accelerate
+pypdf
