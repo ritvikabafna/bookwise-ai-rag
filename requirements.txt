@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+mistralai
+python-dotenv
+
+langchain-huggingface
+sentence-transformers
+torch
+
+faiss-cpu

@@ -1,0 +1,32 @@
+
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Chroma vector databases
+chroma-db/
+chroma-db-v2/
+uploaded_chroma/
+chroma.sqlite3
+
+# Uploaded PDFs and user documents
+uploaded_books/
+*.pdf
+
+# Python testing and cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
